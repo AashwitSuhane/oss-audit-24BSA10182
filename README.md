@@ -3,7 +3,7 @@
 ## Student Details
 
 * **Name:** Aashwit Suhane
-* **Roll Number:** 24BSA10182
+* **Registration Number:** 24BSA10182
 * **Course:** Open Source Software (OSS NGMC)
 * **Slot:** E11
 * **Date:** 31-03-2026
@@ -118,4 +118,4 @@ oss-audit-24BSA10182/
 
 ---
 
-**Prepared by:** Aashwit Suhane | Roll Number: 24BSA10182
+**Prepared by:** Aashwit Suhane | Registration Number: 24BSA10182
